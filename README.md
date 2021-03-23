@@ -1,7 +1,10 @@
 # Another Phoenix Trello
 This Project cloned from https://github.com/bigardone/phoenix-trello
-also only upgrade Phoenix version to latest version(1.5.7),
-want to try liveview, so this is the first step.🐶
+thx for bigardone's great work, learned a lot from there.
+I want to learn liveview by project, and found this great one.
+I only upgrade Phoenix version to latest version(1.5.7),
+this is the first step, will write an another project for liveview version:
+[another-phoenix-trello-with-liveview](https://github.com/flyingalex/another-phoenix-trello-with-liveview)🐶
 
 ## Requirements
 You need to have **Elixir v1.3** and **PostgreSQL** installed.
