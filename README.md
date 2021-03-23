@@ -1,6 +1,6 @@
 # Another Phoenix Trello
 This Project cloned from https://github.com/bigardone/phoenix-trello
-thx for bigardone's great work, learned a lot from there.
+thx for **bigardone**'s great work! learned a lot from there.
 I want to learn liveview by project, and found this great one.
 I only upgrade Phoenix version to latest version(1.5.7),
 this is the first step, will write an another project for liveview version:
